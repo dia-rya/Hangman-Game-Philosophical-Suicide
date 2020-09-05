@@ -1,0 +1,13 @@
+{
+  "name": "hangman-game-test",
+  "version": "1.0.0",
+  "description": "Testing hangman game",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test | tap-spec"
+  },
+  "keywords": [],
+  "author": "Jens Cheung",
+  "license": "ISC",
+  "private": true
+}
