@@ -1,4 +1,4 @@
 # Another-Hangman-Game
-Another Hangman Game for me to learn coding 
+Indie Hangman Game
 
 Feel free to use and edit!
